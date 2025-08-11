@@ -21,7 +21,7 @@
 
 **🎮 A collection of nostalgic, retro-themed web tools with smooth animations and vintage aesthetics 🎮**
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live-Demo-00ff41?style=for-the-badge&logo=vercel&logoColor=black)]((http://localhost:5173/))
+[![Live Demo](https://img.shields.io/badge/🚀_Live-Demo-00ff41?style=for-the-badge&logo=vercel&logoColor=black)]([(http://localhost:5173/)])
 [![GitHub Stars](https://img.shields.io/github/stars/your-username/retro-tools?style=for-the-badge&logo=github&color=ff00ff)](https://github.com/AnassKh16/Retro-Tools)
 [![MIT License](https://img.shields.io/badge/License-MIT-cyan?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
 
