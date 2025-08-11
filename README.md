@@ -212,7 +212,7 @@ Easily customize the retro aesthetic:
 
 <div align="center">
 
-<img src="[https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWwwbnZ5MWJsd3k0ejI4eWRvMzBibW5ybnlhczcyMmFoM3lxcDNuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/79msfurZnTrTxzwOlL/giphy.gif)" width="400">
+<img src="assets/Contribute.gif" width="400">
 
 **Contributions make the open source community amazing! 🌟**
 
