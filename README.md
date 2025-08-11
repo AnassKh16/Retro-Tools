@@ -22,7 +22,7 @@
 **🎮 A collection of nostalgic, retro-themed web tools with smooth animations and vintage aesthetics 🎮**
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live-Demo-00ff41?style=for-the-badge&logo=vercel&logoColor=black)]([(http://localhost:5173/)])
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/retro-tools?style=for-the-badge&logo=github&color=ff00ff)](https://github.com/AnassKh16/Retro-Tools)
+[![GitHub Stars](https://img.shields.io/github/stars/AnassKh16/Retro-Tools?style=for-the-badge&logo=github&color=ff00ff)](https://github.com/AnassKh16/Retro-Tools)
 [![MIT License](https://img.shields.io/badge/License-MIT-cyan?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
@@ -100,8 +100,8 @@
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/retro-tools.git
-cd retro-tools
+git clone https://github.com/AnassKh16/Retro-Toolsgit
+cd Retro-Tools
 ```
 
 **2. Launch locally**
@@ -312,7 +312,7 @@ Easily customize the retro aesthetic:
 *Vintage computer aesthetic with cream and amber colors*
 
 ### 📱 Mobile Experience
-<img width="300" src="assets/Tools.png">
+<img width="800" src="assets/Tools.png">
 
 *Fully responsive design optimized for mobile devices*
 
@@ -390,11 +390,6 @@ Easily customize the retro aesthetic:
 ## 📊 Project Statistics
 
 <div align="center">
-
-![GitHub repo size](https://img.shields.io/github/repo-size/AnassKh16/Retro-Tools?style=flat-square&color=00ff41)
-![GitHub last commit](https://img.shields.io/github/last-commit/AnassKh16/Retro-Tools?style=flat-square&color=ff00ff)
-![GitHub issues](https://img.shields.io/github/issues/AnassKh16/Retro-Tools?style=flat-square&color=00ddff)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/AnassKh16/Retro-Tools?style=flat-square&color=ffff00)
 
 <img src="https://github-readme-stats.vercel.app/api?username=AnassKh16&show_icons=true&theme=radical&hide_border=true&title_color=00ff41&icon_color=ff00ff&text_color=00ddff&bg_color=0a0a0a" width="400">
 
