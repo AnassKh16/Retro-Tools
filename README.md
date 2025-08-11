@@ -1,4 +1,4 @@
-# 🕹️ RETRO TOOLS
+# 🕹️ Tools filled with Nostalgia
 
 <div align="center">
 
@@ -21,8 +21,8 @@
 
 **🎮 A collection of nostalgic, retro-themed web tools with smooth animations and vintage aesthetics 🎮**
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live-Demo-00ff41?style=for-the-badge&logo=vercel&logoColor=black)](your-demo-link-here)
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/retro-tools?style=for-the-badge&logo=github&color=ff00ff)](https://github.com/your-username/retro-tools)
+[![Live Demo](https://img.shields.io/badge/🚀_Live-Demo-00ff41?style=for-the-badge&logo=vercel&logoColor=black)]((http://localhost:5173/))
+[![GitHub Stars](https://img.shields.io/github/stars/your-username/retro-tools?style=for-the-badge&logo=github&color=ff00ff)](https://github.com/AnassKh16/Retro-Tools)
 [![MIT License](https://img.shields.io/badge/License-MIT-cyan?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
