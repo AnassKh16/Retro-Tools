@@ -302,17 +302,17 @@ Easily customize the retro aesthetic:
 <div align="center">
 
 ### 🌙 Dark Theme (Default)
-<img width="800" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img width="800" src="assets/Dark.png">
 
 *The classic retro terminal look with glowing green elements*
 
-### 🌞 Light Theme (Coming Soon)
-<img width="800" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae7-de95-4484-97ef-915b1fa92db6.gif">
+### 🌞 Light Theme
+<img width="800" src="assets/Light.png">
 
 *Vintage computer aesthetic with cream and amber colors*
 
 ### 📱 Mobile Experience
-<img width="300" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+<img width="300" src="assets/Tools.png">
 
 *Fully responsive design optimized for mobile devices*
 
@@ -353,14 +353,14 @@ Easily customize the retro aesthetic:
 
 <div align="center">
 
-<img width="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img width="200" src="assets/Know.gif">
 
-**Your Name**  
+**Anass Khan**  
 *Retro Computing Enthusiast & Full Stack Developer*
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-website.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnassKh16)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https:/google.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasskhn1016@gmail.com)
 
 </div>
 
@@ -391,12 +391,12 @@ Easily customize the retro aesthetic:
 
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/retro-tools?style=flat-square&color=00ff41)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/retro-tools?style=flat-square&color=ff00ff)
-![GitHub issues](https://img.shields.io/github/issues/your-username/retro-tools?style=flat-square&color=00ddff)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/your-username/retro-tools?style=flat-square&color=ffff00)
+![GitHub repo size](https://img.shields.io/github/repo-size/AnassKh16/Retro-Tools?style=flat-square&color=00ff41)
+![GitHub last commit](https://img.shields.io/github/last-commit/AnassKh16/Retro-Tools?style=flat-square&color=ff00ff)
+![GitHub issues](https://img.shields.io/github/issues/AnassKh16/Retro-Tools?style=flat-square&color=00ddff)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AnassKh16/Retro-Tools?style=flat-square&color=ffff00)
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&title_color=00ff41&icon_color=ff00ff&text_color=00ddff&bg_color=0a0a0a" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=AnassKh16&show_icons=true&theme=radical&hide_border=true&title_color=00ff41&icon_color=ff00ff&text_color=00ddff&bg_color=0a0a0a" width="400">
 
 </div>
 
@@ -404,7 +404,7 @@ Easily customize the retro aesthetic:
 
 <div align="center">
 
-<img width="600" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
+<img width="600" src="assets/Thank You.gif">
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
