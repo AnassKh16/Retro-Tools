@@ -100,7 +100,7 @@
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/AnassKh16/Retro-Toolsgit
+git clone https://github.com/AnassKh16/Retro-Tools.git
 cd Retro-Tools
 ```
 
